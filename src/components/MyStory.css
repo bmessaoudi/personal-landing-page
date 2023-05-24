@@ -1,0 +1,28 @@
+.mystory {
+    padding: 4rem;
+    background-color: white;
+}
+
+.title{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+}
+
+.container{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    max-width: 1120px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.wrapper{
+    position: relative;
+    margin: 20px 0 20px;
+}
+
+.text{
+    margin: 0px 10px;
+}
